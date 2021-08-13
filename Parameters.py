@@ -1,7 +1,8 @@
+# Python script to manage the parameters of the PDE model script
+# Created by Luca Rossini
+# e-mail: luca.rossini@unitus.it
+# Last update 27 July 2021
 
-
-
-import multiprocessing as mp
 
 # Define variables
 
