@@ -1,8 +1,11 @@
+
+
+
 import multiprocessing as mp
 
 # Define variables
 
-N_iter = mp.cpu_count() 
+N_iter = 480
 sleep = 30
 
 # Random variation of the parameters and seeding
